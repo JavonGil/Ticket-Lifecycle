@@ -245,7 +245,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Conclusion</h2>
 
-<p>That’s a wrap on this project. We successfully walked through the full life cycle of a Help Desk ticket using osTicket from creating a ticket as a user, to responding as an agent, to managing the system as an admin. This gave us a solid look at how support teams handle issues in real-world environments. Now’s a good time to explore a bit more. Try creating different ticket scenarios, experiment with priorities, help topics, and auto-responses. The more you play around, the more confident you’ll get. Be your own Help Desk and run the show. And of course, don’t forget to stop your VMs in Azure so you don’t rack up charges. Thanks for rocking with the project. Catch you in the next one 😎
+<p>That’s a wrap on this project. We successfully walked through the full life cycle of a Help Desk ticket using osTicket from creating a ticket as a user, to responding as an agent, to managing the system as an admin. This gave us a solid look at how support teams handle issues in real world environments. Now’s a good time to explore a bit more. Try creating different ticket scenarios, experiment with priorities, help topics, and auto-responses. The more you play around, the more confident you’ll get. Be your own Help Desk and run the show. And of course, don’t forget to stop your VMs in Azure so you don’t rack up charges. Thanks for rocking with the project. Catch you in the next one 😎
 
 
 
