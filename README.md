@@ -3,7 +3,7 @@
 
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Conflict & Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br/>
 
 <h2>Prerequisites</h2>
@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="750" alt="TL1" src="https://github.com/user-attachments/assets/f29c9413-e49c-466e-908f-f4db0a209044" />
 </p>
 
-<p>- Before we get started with creating and working tickets today, there was an issue discovered within osTicket about 30 mintues ago. We had a couple of clients call and ask for an update concerning some Help Desk Tickets they submitted. After several attempts, our Lead Agent was unable to locate the tickets. Then, the Lead Agent submitted a "Test" ticket via the Support Center portal and was unable to locate the "Test" ticket as well. Tickets are being created successfully but our Agents are not able to see them. The Help Desk Manager has exclated the issue to our Admin Team. Lets go solve this issue.    </p>
+<p>- 
 <p>- Go to the Admin / Agent Portal for osTicket - http://localhost/osTicket/scp/login.php </p>
 <p>- Log in as an Admin. Username: "adminuser" | Password: Password1</p>
 <br/>
@@ -67,7 +67,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </tr>
 </table>
 <p>- Click Yes, Do it! </p>
-<p>- The Maintenance Department has successfully been deleted. We had our Agents log out / log back in to osTicket. They are reporting that the tickets are now visible and being routed to the correct Departments. That is a Win! Now, we can get to creating and working tickets. 😎</p>
+<p>- The Maintenance Department has successfully been deleted. We had our Agents log out / log back in to osTicket. They are reporting that the tickets are now visible and being routed to the correct Departments.</p>
 <br/>
 
 <table>
@@ -244,7 +244,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Conclusion</h2>
 
-<p>This concludes our project. We have successfully navigated through the life cycle of a Help Desk ticket within osTicket. I recommend taking the time to play around in osTicket by creating and working different tickets. Use your imagination and have fun being your own Help Desk! Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+<p>That’s a wrap on this project. We successfully walked through the full life cycle of a Help Desk ticket using osTicket from creating a ticket as a user, to responding as an agent, to managing the system as an admin. This gave us a solid look at how support teams handle issues in real-world environments. Now’s a good time to explore a bit more. Try creating different ticket scenarios, experiment with priorities, help topics, and auto-responses. The more you play around, the more confident you’ll get. Be your own Help Desk and run the show. And of course, don’t forget to stop your VMs in Azure so you don’t rack up charges. Thanks for rocking with the project. Catch you in the next one 😎
+
+
+
+
+
+
+
+
+   
 </p>
 <br/>
 
